@@ -1,4 +1,4 @@
-## Full Stack Developers Taiwan
+## Open Sourced Homepage
 
 The live hompepage of Full Stack Developers Taiwan can be viewed here:
 
