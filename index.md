@@ -4,6 +4,13 @@ title: Full Stack Develoers Taiwan
 description: 台灣全端工程師
 ---
 
+## Properties
+
+* **Full Stack Develops Taiwan Facebook Group**
+* **stacktw GitHub Team**
+  * `jobs` issues board for Full Stack job opportunities
+  * `stacktw.github.io` GitHub Jekyll HomePage
+
 ## Motivation
 
 * **Lack of Full Stack community in Taiwan.** There is lacking a Full Stack Developer community in Taiwan.
@@ -21,12 +28,20 @@ description: 台灣全端工程師
 * Help front-end and back-end developers transition to a full stack role.
 * Discuss and understand synergies between front-end and back-end frameworks.
 
+## Community Ownership
+
+* **Full Stack Developers Taiwan** is not the property of any individual or company.
+* The open source community owns this full stack community.
+
 ## Moderation Rules
 
 * Any company can post.
 * Jobs must be **Full Stack Developer.**
   * Cannot be Front-End, Back-End, or Mobile Developer.
 * Job posts must have salary information.
+
+## Contributors
+
 
 <br>
 
