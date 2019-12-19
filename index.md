@@ -21,6 +21,13 @@ description: 台灣全端工程師
 * Help front-end and back-end developers transition to a full stack role.
 * Discuss and understand synergies between front-end and back-end frameworks.
 
+## Moderation Rules
+
+* Any company can post.
+* Jobs must be **Full Stack Developer.**
+  * Cannot be Front-End, Back-End, or Mobile Developer.
+* Job posts must have salary information.
+
 <br>
 
 ---
