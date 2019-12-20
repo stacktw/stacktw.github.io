@@ -8,12 +8,9 @@ description: 台灣全端工程師
 
 | Site | Link | Join |
 | --- | --- | --- |
-| Facebook Group | |
-| LinkedIn Group | |
-| GitHub Issues Job Board | 
-* **stacktw GitHub Team**
-  * `jobs` issues board for Full Stack job opportunities
-  * `stacktw.github.io` GitHub Jekyll HomePage
+| Facebook Group | | |
+| LinkedIn Group | | |
+| [GitHub Issues Job Board](https://github.com/stacktw/jobs/issues){:target="_blank"} | https://github.com/stacktw/jobs/issues | [Post New Job](https://github.com/stacktw/jobs/issues/new){:target="_blank"} |
 
 ## Motivation
 
