@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Full Stack Develoers Taiwan
+title: Full Stack Developers Taiwan
 description: 台灣全端工程師
 ---
 
@@ -10,7 +10,7 @@ description: 台灣全端工程師
 | --- | --- | --- |
 | Facebook Group | | |
 | LinkedIn Group | | |
-| [GitHub Issues Job Board](https://github.com/stacktw/jobs/issues){:target="_blank"} | [github.com/stacktw/jobs/issues](https://github.com/stacktw/jobs/issues){:target="_blank"} | [Post New Job](https://github.com/stacktw/jobs/issues/new){:target="_blank"} |
+| [GitHub Issues Job Board](https://github.com/stacktw/jobs/issues){:target="_blank"} | [View Jobs](https://github.com/stacktw/jobs/issues){:target="_blank"} | [Post Job](https://github.com/stacktw/jobs/issues/new){:target="_blank"} |
 
 ## Motivation
 
