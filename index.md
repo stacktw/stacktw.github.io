@@ -52,6 +52,12 @@ description: 台灣全端工程師
 
 ### Apply to be a Moderator
 
+We welcome and highly encourage anyone passionate about full stack development in Taiwan to contribute. Please list the following in your email application:
+
+* Your GitHub or GitLab profile
+* Your affliated company, if any
+* Reason for wanting to contribute
+
 [Apply](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
 
 
@@ -59,19 +65,19 @@ description: 台灣全端工程師
 
 | Name | Description |
 | --- | --- |
-| [Front-End Developers Taiwan](https://www.facebook.com/groups/f2e.tw/permalink/1903319696372053/) | Front-End Developers |
-| [ReactJS Taiwan](https://www.facebook.com/groups/reactjs.tw/) | React.js Developers |
-| [VueJS Taiwan](https://www.facebook.com/groups/vuejs.tw/) | Vue.js Developers |
-| [AngularJS Taiwan](https://forum.angular.tw/) | Angular.js Developers |
-| [JavaScript TW](https://www.facebook.com/groups/javascript.tw) | Angular.js Developers |
-| [Back-End Developers Taiwan](https://www.facebook.com/groups/616369245163622/) | Back-End Developers |
-| [Ruby Taiwan](https://ruby.tw/) | Ruby Developers |
-| [5xRuby](https://5xruby.tw/about/) | Ruby Developers |
-| [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/) | DevOps |
-| [SRE Taiwan](https://www.sre.tw/) | Site Reliability Engineering |
-| [LaraGirls](https://www.laragirls.org/) | LaraGirls |
-| [Girls in Tech](https://taiwan.girlsintech.org/) | Girls in Tech Taiwan |
-| [Taipei Women in Tech](https://www.facebook.com/groups/420817431404071/) | Taipei Women in Tech |
+| [Front-End Developers Taiwan](https://www.facebook.com/groups/f2e.tw/permalink/1903319696372053/){:target="_blank"} | Front-End Developers |
+| [ReactJS Taiwan](https://www.facebook.com/groups/reactjs.tw/){:target="_blank"} | React.js Developers |
+| [VueJS Taiwan](https://www.facebook.com/groups/vuejs.tw/){:target="_blank"} | Vue.js Developers |
+| [AngularJS Taiwan](https://forum.angular.tw/){:target="_blank"} | Angular.js Developers |
+| [JavaScript TW](https://www.facebook.com/groups/javascript.tw){:target="_blank"} | Angular.js Developers |
+| [Back-End Developers Taiwan](https://www.facebook.com/groups/616369245163622/){:target="_blank"} | Back-End Developers |
+| [Ruby Taiwan](https://ruby.tw/){:target="_blank"} | Ruby Developers |
+| [5xRuby](https://5xruby.tw/about/){:target="_blank"} | Ruby Developers |
+| [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/){:target="_blank"} | DevOps |
+| [SRE Taiwan](https://www.sre.tw/){:target="_blank"} | Site Reliability Engineering |
+| [LaraGirls](https://www.laragirls.org/){:target="_blank"} | LaraGirls |
+| [Girls in Tech](https://taiwan.girlsintech.org/){:target="_blank"} | Girls in Tech Taiwan |
+| [Taipei Women in Tech](https://www.facebook.com/groups/420817431404071/){:target="_blank"} | Taipei Women in Tech |
 
 <br>
 
