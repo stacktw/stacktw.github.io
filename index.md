@@ -48,7 +48,7 @@ description: 台灣全端工程師
 
 | GitHub User | Join Date | URL | Contact |
 | --- | --- | --- | --- |
-| [`avancevl`](https://github.com/avancevl) | Dec, 2019 | [`zh.avancevl.com`](https://zh.avancevl.com) | [`hr@avancevl.com`](mailto:hr@avancevl.com) |
+| [`avancevl`](https://github.com/avancevl){:target="_blank"} | Dec, 2019 | [`zh.avancevl.com`](https://zh.avancevl.com){:target="_blank"} | [`hr@avancevl.com`](mailto:hr@avancevl.com) |
 
 ### Apply to be a Moderator
 
