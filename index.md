@@ -75,9 +75,9 @@ We welcome and highly encourage anyone passionate about full stack development i
 | [5xRuby](https://5xruby.tw/about/){:target="_blank"} | Ruby Developers |
 | [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/){:target="_blank"} | DevOps |
 | [SRE Taiwan](https://www.sre.tw/){:target="_blank"} | Site Reliability Engineering |
-| [LaraGirls](https://www.laragirls.org/){:target="_blank"} | LaraGirls |
-| [Girls in Tech](https://taiwan.girlsintech.org/){:target="_blank"} | Girls in Tech Taiwan |
-| [Taipei Women in Tech](https://www.facebook.com/groups/420817431404071/){:target="_blank"} | Taipei Women in Tech |
+| [LaraGirls](https://www.laragirls.org/){:target="_blank"} | Women in Tech |
+| [Girls in Tech](https://taiwan.girlsintech.org/){:target="_blank"} | Women in Tech |
+| [Taipei Women in Tech](https://www.facebook.com/groups/420817431404071/){:target="_blank"} | Women in Tech |
 
 <br>
 
