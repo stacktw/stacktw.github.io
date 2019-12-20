@@ -4,7 +4,7 @@ title: Full Stack Develoers Taiwan
 description: 台灣全端工程師
 ---
 
-## Properties
+## Communities
 
 * **Full Stack Develops Taiwan Facebook Group**
 * **stacktw GitHub Team**
@@ -32,10 +32,10 @@ description: 台灣全端工程師
 * Discuss and understand synergies between front-end and back-end frameworks.
 * Build out an open sourced solution that is **free forever** for startup job seeking and hiring.
 
-## Community Ownership
+## Ownership
 
-* **Startup Jobs Taiwan** is not the property of any individual, company, or incubator.
-* The startup community in Taiwan owns this GitHub repo.
+* **Full Stack Developers Taiwan** is not the property of any individual, company, incubator, or venture.
+* The full stack community in Taiwan owns this GitHub repo.
 
 ## Moderation Rules
 
@@ -46,10 +46,32 @@ description: 台灣全端工程師
 
 ### Moderators
 
+| GitHub User | Join Date | URL | Contact |
+| --- | --- | --- | --- |
+| `[avancevl](https://github.com/avancevl)` | Dec, 2019 | `[zh.avancevl.com](https://zh.avancevl.com)` | `[hr@avancevl.com](mailto:hr@avancevl.com)` |
 
 ### Apply to be a Moderator
 
 [Apply](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
+
+
+## Other Developer Communities in Taiwan
+
+| Name | Description |
+| --- | --- |
+| [Front-End Developers Taiwan](https://www.facebook.com/groups/f2e.tw/permalink/1903319696372053/) | Front-End Developers |
+| [ReactJS Taiwan](https://www.facebook.com/groups/reactjs.tw/) | React.js Developers |
+| [VueJS Taiwan](https://www.facebook.com/groups/vuejs.tw/) | Vue.js Developers |
+| [AngularJS Taiwan](https://forum.angular.tw/) | Angular.js Developers |
+| [JavaScript TW](https://www.facebook.com/groups/javascript.tw) | Angular.js Developers |
+| [Back-End Developers Taiwan](https://www.facebook.com/groups/616369245163622/) | Back-End Developers |
+| [Ruby Taiwan](https://ruby.tw/) | Ruby Developers |
+| [5xRuby](https://5xruby.tw/about/) | Ruby Developers |
+| [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/) | DevOps |
+| [SRE Taiwan](https://www.sre.tw/) | Site Reliability Engineering |
+| [LaraGirls](https://www.laragirls.org/) | LaraGirls |
+| [Girls in Tech](https://taiwan.girlsintech.org/) | Girls in Tech Taiwan |
+| [Taipei Women in Tech](https://www.facebook.com/groups/420817431404071/) | Taipei Women in Tech |
 
 <br>
 
