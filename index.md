@@ -10,7 +10,7 @@ description: 台灣全端工程師
 | --- | --- | --- |
 | Facebook Group | | |
 | LinkedIn Group | | |
-| [GitHub Issues Job Board](https://github.com/stacktw/jobs/issues){:target="_blank"} | https://github.com/stacktw/jobs/issues | [Post New Job](https://github.com/stacktw/jobs/issues/new){:target="_blank"} |
+| [GitHub Issues Job Board](https://github.com/stacktw/jobs/issues){:target="_blank"} | [github.com/stacktw/jobs/issues](https://github.com/stacktw/jobs/issues){:target="_blank"} | [Post New Job](https://github.com/stacktw/jobs/issues/new){:target="_blank"} |
 
 ## Motivation
 
