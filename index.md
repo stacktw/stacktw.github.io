@@ -32,7 +32,7 @@ description: 台灣全端工程師
 * Discuss and understand synergies between front-end and back-end frameworks.
 * Build out an open sourced solution that is **free forever** for startup job seeking and hiring.
 
-### Community Ownership
+## Community Ownership
 
 * **Startup Jobs Taiwan** is not the property of any individual, company, or incubator.
 * The startup community in Taiwan owns this GitHub repo.
@@ -49,6 +49,7 @@ description: 台灣全端工程師
 
 ### Apply to be a Moderator
 
+[Apply](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
