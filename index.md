@@ -6,7 +6,11 @@ description: 台灣全端工程師
 
 ## Communities
 
-* **Full Stack Develops Taiwan Facebook Group**
+| Site | Link | Join |
+| --- | --- | --- |
+| Facebook Group | |
+| LinkedIn Group | |
+| GitHub Issues Job Board | 
 * **stacktw GitHub Team**
   * `jobs` issues board for Full Stack job opportunities
   * `stacktw.github.io` GitHub Jekyll HomePage
