@@ -6,7 +6,7 @@ description: 台灣全端工程師
 
 ## Communities
 
-| Site | Link | Join |
+| Site | For Developers | For Companies |
 | --- | --- | --- |
 | Facebook Group | | |
 | LinkedIn Group | | |
