@@ -4,17 +4,9 @@ title: Full Stack Developers Taiwan
 description: 台灣全端工程師
 ---
 
-## Communities
+## Motivation
 
 > For Developers, By Developers
-
-| Site | For Developers | For Companies |
-| --- | --- | --- |
-| Facebook Group | | |
-| LinkedIn Group | | |
-| [GitHub Issues Job Board](https://github.com/stacktw/jobs/issues){:target="_blank"} | [View Jobs](https://github.com/stacktw/jobs/issues){:target="_blank"} | [Post Job](https://github.com/stacktw/jobs/issues/new){:target="_blank"} |
-
-## Motivation
 
 * **Lack of Full Stack community in Taiwan.** There is lacking a Full Stack Developer community in Taiwan.
   * Front-End Developers Taiwan, Back-End Developers in Taiwan while they very suited for highly focused discussions on front-end and back-end stacks, they are inadequate to discuss how front and back-ends fit together.
