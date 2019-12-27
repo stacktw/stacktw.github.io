@@ -4,7 +4,7 @@ title: Full Stack Developers Taiwan
 description: 台灣全端工程師
 ---
 
-## Motivation
+## 啟發點
 
 > For Developers, By Developers
 
@@ -21,31 +21,31 @@ description: 台灣全端工程師
   * Currently free solutions and network can easily be not free in the future.
   * Only an open sourced solution can be truly free forever.
 
-## Mission
+## 使命
 
 * Help front-end and back-end developers transition to a full stack role.
 * Discuss and understand synergies between front-end and back-end frameworks.
 * Build out an open sourced solution that is **free forever** for startup job seeking and hiring.
 
-## Ownership
+## 所有權
 
 * **Full Stack Developers Taiwan** is not the property of any individual, company, incubator, or venture.
 * The full stack community in Taiwan owns this GitHub repo.
 
-## Moderation Rules
+## 審核規則
 
 * Any company can post.
 * Jobs must be **Full Stack Developer.**
   * Cannot be Front-End, Back-End, or Mobile Developer.
 * Job posts must have salary information.
 
-### Moderators
+### 主持人
 
 | GitHub User | Join Date | URL | Contact |
 | --- | --- | --- | --- |
 | [`avancevl`](https://github.com/avancevl){:target="_blank"} | Dec, 2019 | [`zh.avancevl.com`](https://zh.avancevl.com){:target="_blank"} | [`hr@avancevl.com`](mailto:hr@avancevl.com) |
 
-### Apply to be a Moderator
+### 主持人申請
 
 We welcome and highly encourage anyone passionate about full stack development in Taiwan to contribute. Please list the following in your email application:
 
@@ -56,7 +56,7 @@ We welcome and highly encourage anyone passionate about full stack development i
 [Apply](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
 
 
-## Other Developer Communities in Taiwan
+## 台灣其他開發社團
 
 | Name | Description |
 | --- | --- |
