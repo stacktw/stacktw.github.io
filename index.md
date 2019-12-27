@@ -32,7 +32,7 @@ description: 台灣全端工程師
 * **Full Stack Developers Taiwan** is not the property of any individual, company, incubator, or venture.
 * The full stack community in Taiwan owns this GitHub repo.
 
-## 審核規則
+## Post 規則
 
 * Any company can post.
 * Jobs must be **Full Stack Developer.**
