@@ -58,7 +58,7 @@ description: 台灣全端工程師社團
 * 您的相關公司（如果有）
 * 想要參與貢獻的理由
 
-[申請](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
+[申請](mailto:stacktw@protonmail.com){: .btn#page-btn}{:target="_blank"}
 
 
 ## 台灣其他開發社團
@@ -141,7 +141,7 @@ We welcome and highly encourage anyone passionate about full stack development i
 * Your affiliated company, if any
 * Reason for wanting to contribute
 
-[Apply](mailto:stacktw@prontomail.com){: .btn#page-btn}{:target="_blank"}
+[Apply](mailto:stacktw@protonmail.com){: .btn#page-btn}{:target="_blank"}
 
 
 ## Other Developer Communities in Taiwan
